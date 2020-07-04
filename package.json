@@ -1,0 +1,17 @@
+{
+  "name": "testing_first_server",
+  "version": "1.0.0",
+  "description": "testing first server",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "CYAH",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mssql": "^6.2.0",
+    "mysql": "^2.18.1",
+    "uniqid": "^5.2.0"
+  }
+}
